@@ -34,5 +34,3 @@ This project was made with love by [Boummm](https://github.com/boummm). Feel fre
 Feedback and contributions are always welcome! Feel free to open an issue or submit a pull request.
 
 Happy Valentine's Day! 💘
----
-<img src="https://widgetbite.com/stats/Xeven777" alt="watching_count" />
