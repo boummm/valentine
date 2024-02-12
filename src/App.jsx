@@ -74,6 +74,9 @@ export default function Page() {
             src={lovesvg2}
             className="fixed bottom-16 -z-10 animate-pulse md:right-24 right-10 md:w-40 w-32"
           />
+          <p>
+            Đã bảo đừng có mở trước rồi đù mé
+          </p>
           <p id="demo"></p>
         </>
       ) : (
