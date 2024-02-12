@@ -7,7 +7,7 @@ export default function Page() {
   const [yesPressed, setYesPressed] = useState(false);
   const [time, settime] = useState(true);
   const yesButtonSize = noCount * 20 + 16;
-  var countDownDate = new Date("Feb 13, 2024 2:59:30").getTime();
+  var countDownDate = new Date("Feb 14, 2024").getTime();
   setInterval(function() {
         
     // Get today's date and time
